@@ -1,6 +1,6 @@
 # 4G Democracy: Mobile Internet and Electoral Outcomes in Chile
 
-Master in Economics' thesis for PUC-Chile.
+Master in Economics thesis for PUC-Chile.
 
 Abstract:
 
